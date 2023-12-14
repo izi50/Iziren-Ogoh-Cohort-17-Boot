@@ -1,3 +1,3 @@
 # Iziren-Ogoh-Cohort-17-Boot
-This is Bootstrap project
-This project is working on the fundumentals of alerts,color and grid on Bootstrap.
+This is a Bootstrap project.
+This project works on the fundumentals of alerts,color and grid on Bootstrap.
